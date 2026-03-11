@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T15:17:52.628Z",
+  "lastUpdated": "2026-03-11T15:27:18.935Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -111,39 +111,6 @@
       "city": "Durham",
       "date": "2026-03-13",
       "time": "",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7719",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7723",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7715",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "",
       "title": "SWU Weekly Play - Draft",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7738",
@@ -181,6 +148,39 @@
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-13",
+      "time": "6:30 PM",
+      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7719",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-13",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7715",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-13",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7723",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -403,39 +403,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-20",
-      "time": "",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7720",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-20",
-      "time": "",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7724",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-20",
-      "time": "",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7716",
-      "format": "Pauper"
-    },
-    {
       "store": "game-theory",
       "storeName": "Game Theory",
       "city": "Raleigh",
@@ -467,6 +434,39 @@
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-20",
+      "time": "6:30 PM",
+      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7720",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-20",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7716",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-20",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7724",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -683,43 +683,10 @@
       "city": "Durham",
       "date": "2026-03-27",
       "time": "",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7721",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "",
       "title": "One Piece Card Game Set 15 Prerelease Tournament",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7686",
       "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7717",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7725",
-      "format": "Commander/EDH"
     },
     {
       "store": "game-theory",
@@ -742,6 +709,39 @@
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-27",
+      "time": "6:30 PM",
+      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7721",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-27",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7717",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-03-27",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7725",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -892,39 +892,6 @@
       "city": "Durham",
       "date": "2026-04-03",
       "time": "",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7828",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7825",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7822",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "",
       "title": "SWU Weekly Play - Draft",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7846",
@@ -942,6 +909,28 @@
       "format": "Modern"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-04-03",
+      "time": "6:30 PM",
+      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7828",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-04-03",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7822",
+      "format": "Pauper"
+    },
+    {
       "store": "gathering-place",
       "storeName": "The Gathering Place",
       "city": "Durham",
@@ -950,6 +939,17 @@
       "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
       "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-04-03",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7825",
       "format": "Commander/EDH"
     },
     {
@@ -990,7 +990,7 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-10",
-      "time": "",
+      "time": "6:30 PM",
       "title": "FNM: FDN Draft",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7829",
@@ -1001,22 +1001,22 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-10",
-      "time": "",
-      "title": "FNM: Commander Mixer",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7826",
-      "format": "Commander/EDH"
+      "url": "https://www.atomicempire.com/Store/Event/7823",
+      "format": "Pauper"
     },
     {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-10",
-      "time": "",
-      "title": "FNM: Pauper",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7823",
-      "format": "Pauper"
+      "url": "https://www.atomicempire.com/Store/Event/7826",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
@@ -1045,7 +1045,7 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-24",
-      "time": "",
+      "time": "6:30 PM",
       "title": "FNM: Secrets of Strixhaven (SOS) Draft",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7830",
@@ -1056,22 +1056,22 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-24",
-      "time": "",
-      "title": "FNM: Commander Mixer",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7827",
-      "format": "Commander/EDH"
+      "url": "https://www.atomicempire.com/Store/Event/7824",
+      "format": "Pauper"
     },
     {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-04-24",
-      "time": "",
-      "title": "FNM: Pauper",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7824",
-      "format": "Pauper"
+      "url": "https://www.atomicempire.com/Store/Event/7827",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",

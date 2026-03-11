@@ -124,6 +124,18 @@ function parseMonthDay(monthStr, dayStr) {
   return { month: m, day: d };
 }
 
+// ── Atomic Empire time lookup ──────────────────────────────────────
+// Times from og:description of individual event pages. These are stable recurring times.
+function guessAtomicTime(title) {
+  const t = title.toLowerCase();
+  if (t.includes('fnm') && t.includes('draft')) return '6:30 PM';
+  if (t.includes('fnm') && t.includes('pauper')) return '6:30 PM';
+  if (t.includes('commander mixer')) return '7:15 PM';
+  if (t.includes('rcq') || (t.includes('regional') && t.includes('qualifier'))) return '11:00 AM';
+  if (t.includes('fnm')) return '6:30 PM';
+  return '';
+}
+
 // ── Scraper: Atomic Empire ─────────────────────────────────────────
 async function scrapeAtomicEmpire(store) {
   const text = await fetchText(store.jinaUrl);
@@ -164,7 +176,7 @@ async function scrapeAtomicEmpire(store) {
           storeName: store.name,
           city: store.city,
           date: currentDate,
-          time: '', // Atomic Empire doesn't show times in the list
+          time: guessAtomicTime(title),
           title,
           description: '',
           url,
