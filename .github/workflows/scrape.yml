@@ -1,0 +1,31 @@
+name: Scrape MTG Events
+
+on:
+  schedule:
+    # Run daily at 6am ET (11:00 UTC during EDT, 10:00 UTC during EST)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run scraper
+        run: node scripts/scrape.js
+
+      - name: Commit updated events
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git diff --staged --quiet || git commit -m "Update events data [$(date -u '+%Y-%m-%d')]"
+          git push

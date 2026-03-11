@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Triangle MTG Events</title>
+  <style>
+    :root {
+      --bg: #1a1612;
+      --bg-card: #252019;
+      --bg-hover: #2e2720;
+      --text: #e8dcc8;
+      --text-dim: #a89880;
+      --accent: #c4956a;
+      --accent-dim: #8a6842;
+      --border: #3a3028;
+
+      /* Store colors */
+      --atomic-empire: #e06040;
+      --gathering-place: #50a878;
+      --game-theory: #6088d0;
+      --shuffle-n-roll: #d0a040;
+      --picante-tcg: #e04050;
+      --dragons-hoard: #9060c0;
+
+      /* Format colors */
+      --fmt-draft: #4488cc;
+      --fmt-commander: #8844cc;
+      --fmt-standard: #44aa66;
+      --fmt-modern: #cc4444;
+      --fmt-pioneer: #cc8844;
+      --fmt-pauper: #888888;
+      --fmt-sealed: #ccaa44;
+      --fmt-fnm: #44aacc;
+      --fmt-legacy: #aa6644;
+      --fmt-other: #666666;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+      letter-spacing: 0.02em;
+    }
+
+    header .subtitle {
+      color: var(--text-dim);
+      font-size: 0.95rem;
+    }
+
+    .last-updated {
+      color: var(--text-dim);
+      font-size: 0.8rem;
+      margin-top: 0.5rem;
+    }
+
+    /* ── Store cards ─────────────────────────────── */
+    .stores-row {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+      justify-content: center;
+    }
+
+    .store-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.35rem 0.7rem;
+      border-radius: 6px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      font-size: 0.8rem;
+      color: var(--text);
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+
+    .store-chip:hover { background: var(--bg-hover); }
+
+    .store-chip .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .store-chip .city {
+      color: var(--text-dim);
+      font-size: 0.75rem;
+    }
+
+    /* ── Filters ─────────────────────────────────── */
+    .filters {
+      margin-bottom: 1.5rem;
+    }
+
+    .filter-group {
+      display: flex;
+      gap: 0.35rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.5rem;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-right: 0.25rem;
+      min-width: 50px;
+    }
+
+    .filter-pill {
+      padding: 0.25rem 0.6rem;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-dim);
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+
+    .filter-pill:hover { border-color: var(--accent-dim); color: var(--text); }
+    .filter-pill.active { background: var(--accent-dim); border-color: var(--accent); color: var(--text); }
+
+    /* ── Event sections ──────────────────────────── */
+    .date-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .date-header {
+      font-size: 0.9rem;
+      color: var(--accent);
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0.5rem;
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 10;
+    }
+
+    .date-header .relative {
+      color: var(--text-dim);
+      font-size: 0.8rem;
+      margin-left: 0.5rem;
+    }
+
+    .event-card {
+      display: flex;
+      gap: 0.75rem;
+      padding: 0.6rem 0.75rem;
+      border-radius: 8px;
+      margin-bottom: 0.35rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      transition: background 0.15s;
+      text-decoration: none;
+      color: inherit;
+      align-items: center;
+    }
+
+    .event-card:hover { background: var(--bg-hover); }
+
+    .event-store-bar {
+      width: 4px;
+      border-radius: 2px;
+      align-self: stretch;
+      flex-shrink: 0;
+    }
+
+    .event-body {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .event-title {
+      font-size: 0.9rem;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .event-meta {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-top: 0.15rem;
+    }
+
+    .event-store-name {
+      font-size: 0.78rem;
+      font-weight: 500;
+    }
+
+    .event-time, .event-city {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    .format-badge {
+      font-size: 0.7rem;
+      padding: 0.1rem 0.45rem;
+      border-radius: 10px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      flex-shrink: 0;
+    }
+
+    .section-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-dim);
+      margin: 1.5rem 0 0.5rem;
+      padding-left: 0.25rem;
+    }
+
+    .no-events {
+      text-align: center;
+      color: var(--text-dim);
+      padding: 3rem 1rem;
+      font-size: 0.95rem;
+    }
+
+    .loading {
+      text-align: center;
+      color: var(--text-dim);
+      padding: 4rem 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 0 1rem;
+      color: var(--text-dim);
+      font-size: 0.75rem;
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+    }
+
+    footer a { color: var(--accent-dim); }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.5rem; }
+      .container { padding: 1rem 0.75rem; }
+      .event-card { padding: 0.5rem 0.6rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>⚔️ Triangle MTG Events</h1>
+      <p class="subtitle">Magic: The Gathering events across the Triangle, NC</p>
+      <p class="last-updated" id="lastUpdated"></p>
+    </header>
+
+    <div class="stores-row" id="storesRow"></div>
+
+    <div class="filters">
+      <div class="filter-group" id="formatFilters">
+        <span class="filter-label">Format</span>
+      </div>
+      <div class="filter-group" id="cityFilters">
+        <span class="filter-label">City</span>
+      </div>
+      <div class="filter-group" id="storeFilters">
+        <span class="filter-label">Store</span>
+      </div>
+    </div>
+
+    <div id="eventsContainer">
+      <div class="loading">Loading events...</div>
+    </div>
+
+    <footer>
+      Data scraped from store websites daily.
+      <br>Built by <a href="https://sawyerwelden.com">Sawyer Welden</a>.
+    </footer>
+  </div>
+
+  <script>
+    const STORE_COLORS = {
+      'atomic-empire': 'var(--atomic-empire)',
+      'gathering-place': 'var(--gathering-place)',
+      'game-theory': 'var(--game-theory)',
+      'shuffle-n-roll': 'var(--shuffle-n-roll)',
+      'picante-tcg': 'var(--picante-tcg)',
+      'dragons-hoard': 'var(--dragons-hoard)',
+    };
+
+    const FORMAT_COLORS = {
+      'Draft': 'var(--fmt-draft)',
+      'Commander/EDH': 'var(--fmt-commander)',
+      'Standard': 'var(--fmt-standard)',
+      'Modern': 'var(--fmt-modern)',
+      'Pioneer': 'var(--fmt-pioneer)',
+      'Pauper': 'var(--fmt-pauper)',
+      'Prerelease/Sealed': 'var(--fmt-sealed)',
+      'FNM': 'var(--fmt-fnm)',
+      'Legacy': 'var(--fmt-legacy)',
+      'Other': 'var(--fmt-other)',
+    };
+
+    let data = null;
+    let activeFilters = { format: null, city: null, store: null };
+
+    async function init() {
+      try {
+        const res = await fetch('data/events.json');
+        data = await res.json();
+        renderStores();
+        buildFilters();
+        renderEvents();
+        
+        if (data.lastUpdated) {
+          const d = new Date(data.lastUpdated);
+          document.getElementById('lastUpdated').textContent = 
+            `Last updated: ${d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' })}`;
+        }
+      } catch (err) {
+        document.getElementById('eventsContainer').innerHTML = 
+          '<div class="no-events">Could not load events. Try again later.</div>';
+      }
+    }
+
+    function renderStores() {
+      const row = document.getElementById('storesRow');
+      row.innerHTML = data.stores.map(s => `
+        <a class="store-chip" href="${s.url}" target="_blank" rel="noopener">
+          <span class="dot" style="background:${STORE_COLORS[s.id]}"></span>
+          ${s.name}
+          <span class="city">${s.city}</span>
+        </a>
+      `).join('');
+    }
+
+    function buildFilters() {
+      const formats = [...new Set(data.events.map(e => e.format))].sort();
+      const cities = [...new Set(data.events.map(e => e.city))].sort();
+      const stores = [...new Set(data.events.map(e => e.storeName))].sort();
+
+      const formatContainer = document.getElementById('formatFilters');
+      const cityContainer = document.getElementById('cityFilters');
+      const storeContainer = document.getElementById('storeFilters');
+
+      formats.forEach(f => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-pill';
+        btn.textContent = f;
+        btn.style.borderColor = FORMAT_COLORS[f] || 'var(--border)';
+        btn.onclick = () => toggleFilter('format', f, btn);
+        formatContainer.appendChild(btn);
+      });
+
+      cities.forEach(c => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-pill';
+        btn.textContent = c;
+        btn.onclick = () => toggleFilter('city', c, btn);
+        cityContainer.appendChild(btn);
+      });
+
+      stores.forEach(s => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-pill';
+        btn.textContent = s;
+        const storeId = data.stores.find(st => st.name === s)?.id;
+        if (storeId) btn.style.borderColor = STORE_COLORS[storeId];
+        btn.onclick = () => toggleFilter('store', s, btn);
+        storeContainer.appendChild(btn);
+      });
+    }
+
+    function toggleFilter(type, value, btn) {
+      if (activeFilters[type] === value) {
+        activeFilters[type] = null;
+        btn.classList.remove('active');
+      } else {
+        // Deactivate siblings
+        btn.parentElement.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
+        activeFilters[type] = value;
+        btn.classList.add('active');
+      }
+      renderEvents();
+    }
+
+    function renderEvents() {
+      let events = data.events;
+      
+      if (activeFilters.format) events = events.filter(e => e.format === activeFilters.format);
+      if (activeFilters.city) events = events.filter(e => e.city === activeFilters.city);
+      if (activeFilters.store) events = events.filter(e => e.storeName === activeFilters.store);
+
+      const container = document.getElementById('eventsContainer');
+
+      if (events.length === 0) {
+        container.innerHTML = '<div class="no-events">No events match your filters.</div>';
+        return;
+      }
+
+      // Group by date
+      const groups = {};
+      events.forEach(e => {
+        const key = e.date || 'unknown';
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(e);
+      });
+
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      const todayStr = today.toISOString().slice(0, 10);
+      const weekEnd = new Date(today);
+      weekEnd.setDate(weekEnd.getDate() + 7);
+      const weekEndStr = weekEnd.toISOString().slice(0, 10);
+
+      let html = '';
+      const sortedDates = Object.keys(groups).sort();
+
+      // Categorize
+      const todayEvents = sortedDates.filter(d => d === todayStr);
+      const thisWeekEvents = sortedDates.filter(d => d > todayStr && d <= weekEndStr);
+      const upcomingEvents = sortedDates.filter(d => d > weekEndStr);
+
+      function renderSection(label, dates) {
+        if (dates.length === 0) return '';
+        let s = `<div class="section-label">${label}</div>`;
+        for (const date of dates) {
+          s += renderDateGroup(date, groups[date]);
+        }
+        return s;
+      }
+
+      html += renderSection('📌 Today', todayEvents);
+      html += renderSection('📅 This Week', thisWeekEvents);
+      html += renderSection('🔮 Upcoming', upcomingEvents);
+
+      // Handle unknown dates
+      if (groups['unknown']) {
+        html += renderSection('📋 Date TBD', ['unknown']);
+      }
+
+      container.innerHTML = html;
+    }
+
+    function renderDateGroup(dateStr, events) {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      
+      let dateLabel = dateStr;
+      let relLabel = '';
+      
+      if (dateStr !== 'unknown') {
+        const d = new Date(dateStr + 'T12:00:00');
+        const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+        dateLabel = d.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
+        
+        const diffDays = Math.round((d - today) / 86400000);
+        if (diffDays === 0) relLabel = 'today';
+        else if (diffDays === 1) relLabel = 'tomorrow';
+        else if (diffDays > 1 && diffDays <= 6) relLabel = `in ${diffDays} days`;
+      }
+
+      let html = `<div class="date-section">`;
+      html += `<div class="date-header">${dateLabel}`;
+      if (relLabel) html += `<span class="relative">${relLabel}</span>`;
+      html += `</div>`;
+
+      for (const e of events) {
+        const storeColor = STORE_COLORS[e.store] || 'var(--border)';
+        const fmtColor = FORMAT_COLORS[e.format] || 'var(--fmt-other)';
+        const linkUrl = e.url || '#';
+        
+        html += `
+          <a class="event-card" href="${linkUrl}" target="_blank" rel="noopener">
+            <div class="event-store-bar" style="background:${storeColor}"></div>
+            <div class="event-body">
+              <div class="event-title">${escHtml(e.title)}</div>
+              <div class="event-meta">
+                <span class="event-store-name" style="color:${storeColor}">${escHtml(e.storeName)}</span>
+                ${e.time ? `<span class="event-time">🕐 ${escHtml(e.time)}</span>` : ''}
+                <span class="event-city">${escHtml(e.city)}</span>
+              </div>
+            </div>
+            <span class="format-badge" style="background:${fmtColor}20;color:${fmtColor};border:1px solid ${fmtColor}40">${escHtml(e.format)}</span>
+          </a>`;
+      }
+
+      html += `</div>`;
+      return html;
+    }
+
+    function escHtml(s) {
+      const el = document.createElement('span');
+      el.textContent = s;
+      return el.innerHTML;
+    }
+
+    init();
+  </script>
+</body>
+</html>

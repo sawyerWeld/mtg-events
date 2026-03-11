@@ -1,0 +1,10 @@
+{
+  "name": "mtg-events",
+  "version": "1.0.0",
+  "description": "Triangle MTG Events Aggregator - scrapes local game stores for Magic: The Gathering events",
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "type": "module",
+  "private": true
+}
