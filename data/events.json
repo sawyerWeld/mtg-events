@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T15:27:18.935Z",
+  "lastUpdated": "2026-03-11T15:29:20.474Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -106,17 +106,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "SWU Weekly Play - Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7738",
-      "format": "Draft"
-    },
-    {
       "store": "game-theory",
       "storeName": "Game Theory",
       "city": "Raleigh",
@@ -188,17 +177,6 @@
       "city": "Mebane",
       "date": "2026-03-14",
       "time": "",
-      "title": "Pokemon Perfect Order Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-14",
-      "time": "",
       "title": "TMNT Commander Party",
       "description": "",
       "url": "https://shufflenroll.com/",
@@ -236,28 +214,6 @@
       "description": "",
       "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-03-14",
-      "time": "3:00 PM",
-      "title": "Perfect Order Prerelease Pokemon",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/perfect-order-prerelease-pokemon",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-15",
-      "time": "",
-      "title": "Lorcana Draft: Winterspell",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7767",
-      "format": "Draft"
     },
     {
       "store": "shuffle-n-roll",
@@ -678,17 +634,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "One Piece Card Game Set 15 Prerelease Tournament",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7686",
-      "format": "Prerelease/Sealed"
-    },
-    {
       "store": "game-theory",
       "storeName": "Game Theory",
       "city": "Raleigh",
@@ -885,17 +830,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "SWU Weekly Play - Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7846",
-      "format": "Draft"
     },
     {
       "store": "game-theory",

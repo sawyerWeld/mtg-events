@@ -87,8 +87,15 @@ function detectFormat(title) {
   return 'Other';
 }
 
+const NOT_MTG_KEYWORDS = [
+  'pokemon', 'pokémon', 'lorcana', 'one piece', 'dragon ball', 'digimon',
+  'star wars', 'swu', 'riftbound', 'gundam', 'flesh and blood', 'fab ',
+  'yugioh', 'yu-gi-oh', 'warhammer', 'heroclix',
+];
+
 function isMtgEvent(title) {
   const t = title.toLowerCase();
+  if (NOT_MTG_KEYWORDS.some(kw => t.includes(kw))) return false;
   return MTG_KEYWORDS.some(kw => t.includes(kw));
 }
 
