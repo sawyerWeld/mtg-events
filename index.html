@@ -404,13 +404,13 @@
     }
 
     function toggleFilter(type, value, btn) {
-      if (activeFilters[type] === value) {
-        activeFilters[type] = null;
+      if (!activeFilters[type]) activeFilters[type] = new Set();
+      const set = activeFilters[type];
+      if (set.has(value)) {
+        set.delete(value);
         btn.classList.remove('active');
       } else {
-        // Deactivate siblings
-        btn.parentElement.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
-        activeFilters[type] = value;
+        set.add(value);
         btn.classList.add('active');
       }
       renderEvents();
@@ -419,9 +419,9 @@
     function renderEvents() {
       let events = data.events;
       
-      if (activeFilters.format) events = events.filter(e => e.format === activeFilters.format);
-      if (activeFilters.city) events = events.filter(e => e.city === activeFilters.city);
-      if (activeFilters.store) events = events.filter(e => e.storeName === activeFilters.store);
+      if (activeFilters.format?.size) events = events.filter(e => activeFilters.format.has(e.format));
+      if (activeFilters.city?.size) events = events.filter(e => activeFilters.city.has(e.city));
+      if (activeFilters.store?.size) events = events.filter(e => activeFilters.store.has(e.storeName));
 
       const container = document.getElementById('eventsContainer');
 
