@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T11:29:58.892Z",
+  "lastUpdated": "2026-03-13T11:29:17.182Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -39,39 +39,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-12",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-03-12",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-03-12",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "game-theory",
       "storeName": "Game Theory",
@@ -898,6 +865,17 @@
       "format": "Standard"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-05",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -918,6 +896,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-04-09",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
