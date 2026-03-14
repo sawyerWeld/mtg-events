@@ -438,10 +438,10 @@
 
       const today = new Date();
       today.setHours(0, 0, 0, 0);
-      const todayStr = today.toISOString().slice(0, 10);
+      const todayStr = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
       const weekEnd = new Date(today);
       weekEnd.setDate(weekEnd.getDate() + 7);
-      const weekEndStr = weekEnd.toISOString().slice(0, 10);
+      const weekEndStr = `${weekEnd.getFullYear()}-${String(weekEnd.getMonth()+1).padStart(2,'0')}-${String(weekEnd.getDate()).padStart(2,'0')}`;
 
       let html = '';
       const sortedDates = Object.keys(groups).sort();
