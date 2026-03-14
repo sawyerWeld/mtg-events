@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T11:29:17.182Z",
+  "lastUpdated": "2026-03-14T11:21:49.225Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -39,72 +39,6 @@
     }
   ],
   "events": [
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "MTG Learn to Deckbuild: Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-13",
-      "time": "",
-      "title": "FNM TMNT Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "6:30 PM",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7719",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "6:30 PM",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7715",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-13",
-      "time": "7:15 PM",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7723",
-      "format": "Commander/EDH"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -156,17 +90,6 @@
       "date": "2026-03-15",
       "time": "",
       "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-15",
-      "time": "",
-      "title": "Little Walkers Magic",
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Other"
@@ -291,17 +214,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-03-20",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -447,17 +359,6 @@
       "format": "Other"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-22",
-      "time": "",
-      "title": "Little Walkers Magic",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
-    },
-    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -568,17 +469,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -662,17 +552,6 @@
       "date": "2026-03-29",
       "time": "",
       "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-29",
-      "time": "",
-      "title": "Little Walkers Magic",
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Other"
@@ -764,17 +643,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "atomic-empire",
