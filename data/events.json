@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T23:33:21.898Z",
+  "lastUpdated": "2026-03-15T11:23:43.882Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -39,50 +39,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-14",
-      "time": "",
-      "title": "TMNT Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-14",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-14",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-03-14",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -741,6 +697,17 @@
       "title": "Thursday Night Commander/EDH Meetup",
       "description": "",
       "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-07",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07/",
       "format": "Commander/EDH"
     },
     {
