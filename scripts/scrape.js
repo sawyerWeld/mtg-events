@@ -63,6 +63,14 @@ const STORES = [
     eventsUrl: 'https://www.dragonshoardnc.com/',
     jinaUrl: 'https://r.jina.ai/https://www.dragonshoardnc.com/',
   },
+  {
+    id: 'triangle-atc',
+    name: 'Triangle Area Trading Cards',
+    city: 'Raleigh',
+    url: 'https://triangleatc.com/',
+    eventsUrl: 'https://triangleatc.com/',
+    jinaUrl: 'https://r.jina.ai/https://triangleatc.com/',
+  },
 ];
 
 // ── MTG keywords & format detection ────────────────────────────────
@@ -565,6 +573,30 @@ async function scrapeDragonsHoard(store) {
   return events;
 }
 
+// ── Scraper: Triangle Area Trading Cards ───────────────────────────
+async function scrapeTriangleATC(store) {
+  // No structured events page — daily Commander play (free with Commander Code)
+  const events = [];
+  const today = new Date();
+  for (let i = 0; i < 28; i++) {
+    const d = new Date(today);
+    d.setDate(d.getDate() + i);
+    const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    events.push({
+      store: store.id,
+      storeName: store.name,
+      city: store.city,
+      date: dateStr,
+      time: '',
+      title: 'Daily Commander Play (Free)',
+      description: 'Free Commander play daily — use the Commander Code',
+      url: store.url,
+      format: 'Commander/EDH',
+    });
+  }
+  return events;
+}
+
 // ── Main ───────────────────────────────────────────────────────────
 const scrapers = {
   'atomic-empire': scrapeAtomicEmpire,
@@ -573,6 +605,7 @@ const scrapers = {
   'shuffle-n-roll': scrapeShuffleNRoll,
   'picante-tcg': scrapePicanteTCG,
   'dragons-hoard': scrapeDragonsHoard,
+  'triangle-atc': scrapeTriangleATC,
 };
 
 async function main() {
