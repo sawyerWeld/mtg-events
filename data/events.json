@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T11:39:40.443Z",
+  "lastUpdated": "2026-03-26T11:48:38.328Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,50 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-25",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-03-25",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-03-25",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-03-25",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25/",
-      "format": "Modern"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -904,6 +860,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-18",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18/",
+      "format": "Modern"
+    },
+    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -981,15 +948,26 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
       "date": "2026-04-22",
       "time": "",
-      "title": "Magic: Commander Nights (SOS Season)",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7820",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-04-22",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
     },
     {
       "store": "atomic-empire",
