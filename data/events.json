@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T11:39:43.601Z",
+  "lastUpdated": "2026-03-28T11:25:57.190Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,94 +46,6 @@
   ],
   "events": [
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "TMNT FNM It's Turtle Time Chaos Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-03-27",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "6:30 PM",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7721",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "6:30 PM",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7717",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-03-27",
-      "time": "7:15 PM",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7725",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-28",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-28",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -154,17 +66,6 @@
       "description": "",
       "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-03-29",
-      "time": "",
-      "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -310,17 +211,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -374,6 +264,17 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7825",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-04-04",
+      "time": "",
+      "title": "Altered TCG: Farewell Event - Sealed Tumult",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7866",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "triangle-atc",
@@ -539,17 +440,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-10",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "triangle-atc",
@@ -772,17 +662,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-17",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -967,6 +846,17 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-04-24",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
