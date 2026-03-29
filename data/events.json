@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T11:25:57.190Z",
+  "lastUpdated": "2026-03-29T11:26:29.072Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,26 +46,15 @@
   ],
   "events": [
     {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-03-28",
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-03-29",
       "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-03-28",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "title": "Casual MTG",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28/",
-      "format": "Commander/EDH"
+      "url": "https://shufflenroll.com/",
+      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -783,6 +772,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-21",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -890,6 +890,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7827",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-04-25",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
