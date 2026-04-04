@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T11:36:16.311Z",
+  "lastUpdated": "2026-04-04T11:27:25.141Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,83 +46,6 @@
   ],
   "events": [
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "TMNT FNM It's Turtle Time Chaos Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-03",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "6:30 PM",
-      "title": "FNM: Teenage Mutant Ninja Turtles (TMT) Draft",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7828",
-      "format": "Draft"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "6:30 PM",
-      "title": "FNM: Pauper",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7822",
-      "format": "Pauper"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-03",
-      "time": "7:15 PM",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7825",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -132,6 +55,17 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7866",
       "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-04-04",
+      "time": "",
+      "title": "MTG Chaos Commander League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -178,17 +112,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-04",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04/",
-      "format": "Modern"
-    },
-    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -233,17 +156,6 @@
       "format": "Standard"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-05",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -270,10 +182,10 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-07",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "time": "7:00 PM",
+      "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07/",
+      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07/",
       "format": "Commander/EDH"
     },
     {
@@ -294,6 +206,17 @@
       "date": "2026-04-08",
       "time": "",
       "title": "TMNT Commander Party",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-04-08",
+      "time": "",
+      "title": "MTG Chaos Commander League",
       "description": "",
       "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
@@ -332,6 +255,17 @@
       "format": "Standard"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-08",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01-2026-04-08/",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -354,6 +288,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-09",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -363,17 +308,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-10",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -420,17 +354,6 @@
       "format": "Pauper"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-10",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -439,6 +362,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7826",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-04-11",
+      "time": "",
+      "title": "MTG Chaos Commander League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
     },
     {
@@ -479,11 +413,11 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-11",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11/",
-      "format": "Modern"
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11/",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -530,17 +464,6 @@
       "format": "Standard"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-12",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -567,10 +490,10 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-14",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "time": "7:00 PM",
+      "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14/",
+      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07-2026-04-14/",
       "format": "Commander/EDH"
     },
     {
@@ -594,6 +517,17 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7797",
       "format": "Other"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-04-15",
+      "time": "",
+      "title": "MTG Chaos Commander League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -629,6 +563,17 @@
       "format": "Standard"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-15",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01-2026-04-08-2026-04-15/",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -651,6 +596,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-16",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09-2026-04-16/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -660,17 +616,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-17",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -692,17 +637,6 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-17",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17/",
       "format": "Commander/EDH"
     },
     {
@@ -761,15 +695,26 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-18",
+      "time": "1:00 PM",
+      "title": "Secrets of Strixhaven Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/secrets-of-strixhaven-prerelease-95wk6",
+      "format": "Prerelease/Sealed"
+    },
+    {
       "store": "gathering-place",
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-18",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18/",
-      "format": "Modern"
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11-2026-04-18/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
@@ -838,17 +783,6 @@
       "format": "Standard"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-19",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -875,10 +809,10 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-21",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "time": "7:00 PM",
+      "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21/",
+      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07-2026-04-14-2026-04-21/",
       "format": "Commander/EDH"
     },
     {
@@ -890,6 +824,17 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-04-22",
+      "time": "",
+      "title": "Magic: Commander Nights (SOS Season)",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/7820",
       "format": "Commander/EDH"
     },
     {
@@ -926,6 +871,17 @@
       "format": "Standard"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-22",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01-2026-04-08-2026-04-15-2026-04-22/",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -948,6 +904,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-23",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09-2026-04-16-2026-04-23/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -957,17 +924,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-24",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -1012,17 +968,6 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7824",
       "format": "Pauper"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-24",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24/",
-      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
@@ -1084,6 +1029,17 @@
       "storeName": "Dragon's Hoard",
       "city": "Greensboro",
       "date": "2026-04-25",
+      "time": "1:00 PM",
+      "title": "Secrets of Strixhaven Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/secrets-of-strixhaven-prerelease-95wk6-g453z",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-25",
       "time": "11:00 AM",
       "title": "Magic the Gathering Modern RCQ",
       "description": "",
@@ -1106,11 +1062,11 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-25",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25/",
-      "format": "Modern"
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11-2026-04-18-2026-04-25/",
+      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -1157,17 +1113,6 @@
       "format": "Standard"
     },
     {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-26",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1194,10 +1139,10 @@
       "storeName": "The Gathering Place",
       "city": "Durham",
       "date": "2026-04-28",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "time": "7:00 PM",
+      "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28/",
+      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07-2026-04-14-2026-04-21-2026-04-28/",
       "format": "Commander/EDH"
     },
     {
@@ -1245,6 +1190,17 @@
       "format": "Standard"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-29",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01-2026-04-08-2026-04-15-2026-04-22-2026-04-29/",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -1267,6 +1223,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-04-30",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09-2026-04-16-2026-04-23-2026-04-30/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -1286,6 +1253,17 @@
       "title": "Tuesday Night Commander/EDH Meetup",
       "description": "",
       "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-01",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
