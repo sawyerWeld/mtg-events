@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T11:52:04.691Z",
+  "lastUpdated": "2026-04-08T11:53:11.747Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,39 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-07",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-07",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-04-07",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -187,6 +154,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-04-10",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -497,6 +475,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-04-17",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -803,6 +792,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-04-24",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -1135,6 +1135,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-05-01",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1198,6 +1209,28 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-05",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-05-05",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
     },
     {
