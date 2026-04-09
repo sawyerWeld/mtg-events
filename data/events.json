@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T11:53:11.747Z",
+  "lastUpdated": "2026-04-09T11:53:43.992Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -49,72 +49,6 @@
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
-      "date": "2026-04-08",
-      "time": "",
-      "title": "TMNT Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-08",
-      "time": "",
-      "title": "MTG Chaos Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-08",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-08",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-04-08",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-08",
-      "time": "7:30 PM",
-      "title": "MTG Modern (Weekly Constructed)",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01-2026-04-08/",
-      "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
       "date": "2026-04-09",
       "time": "",
       "title": "Thursday Night Competitive Commander",
@@ -154,17 +88,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-10",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -275,6 +198,17 @@
       "description": "",
       "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-11",
+      "time": "7:00 PM",
+      "title": "Friday Night Magic Teenage Mutant Ninja Turtles Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-teenage-mutant-ninja-turtles-draft",
+      "format": "Draft"
     },
     {
       "store": "shuffle-n-roll",
@@ -473,17 +407,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-17",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -792,17 +715,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-04-24",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
     },
     {
       "store": "shuffle-n-roll",
@@ -1135,17 +1047,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "game-theory",
-      "storeName": "Game Theory",
-      "city": "Raleigh",
-      "date": "2026-05-01",
-      "time": "",
-      "title": "FNM (Modern + rotating format)",
-      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
-      "url": "https://shop.gametheorystore.com/pages/events",
-      "format": "Modern"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1155,6 +1056,50 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-01",
+      "time": "6:30 PM",
+      "title": "FNM: Secrets of Strixhaven (SOS) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8254",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-01",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8257",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-01",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8262",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-05-01",
+      "time": "7:30 PM",
+      "title": "MTG Modern (Weekly Constructed)",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/mtg-modern-weekly-constructed-2026-02-04-2026-02-11-2026-02-18-2026-02-25-2026-03-04-2026-03-11-2026-03-18-2026-03-25-2026-04-01/",
+      "format": "Modern"
     },
     {
       "store": "triangle-atc",
@@ -1245,6 +1190,94 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-06",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-05-06",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-08",
+      "time": "6:30 PM",
+      "title": "FNM: Secrets of Strixhaven (SOS) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8255",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-08",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8258",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-08",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8263",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-15",
+      "time": "6:30 PM",
+      "title": "FNM: Secrets of Strixhaven (SOS) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8256",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-15",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8259",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-15",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8264",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -1259,12 +1292,56 @@
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
+      "date": "2026-05-22",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8260",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-22",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8265",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
       "date": "2026-05-29",
       "time": "6:30 PM",
       "title": "FNM: Open the Archive - Secrets of Strixhaven (SOS) Draft",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7878",
       "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-29",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8261",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-05-29",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/8266",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
