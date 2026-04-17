@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T11:57:28.585Z",
+  "lastUpdated": "2026-04-17T11:50:44.877Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,50 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-16",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-16",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-16",
-      "time": "7:00 PM",
-      "title": "Thursday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09-2026-04-16/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-04-16",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "game-theory",
       "storeName": "Game Theory",
@@ -176,6 +132,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-18",
+      "time": "1:00 PM",
+      "title": "Secrets of Strixhaven Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/secrets-of-strixhaven-prerelease-95wk6",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "gathering-place",
@@ -296,17 +263,6 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-04-22",
-      "time": "",
-      "title": "Magic: Commander Nights (SOS Season)",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7820",
       "format": "Commander/EDH"
     },
     {
@@ -517,6 +473,39 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-25",
+      "time": "1:00 PM",
+      "title": "Secrets of Strixhaven Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/secrets-of-strixhaven-prerelease-95wk6-g453z",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-25",
+      "time": "11:00 AM",
+      "title": "Magic the Gathering Modern RCQ",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-modern-rcq",
+      "format": "Modern"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-04-25",
+      "time": "12:00 PM",
+      "title": "Pauper League",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/pauper-league-kt6xz",
+      "format": "Pauper"
     },
     {
       "store": "gathering-place",
@@ -1025,6 +1014,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-05-09",
+      "time": "7:00 PM",
+      "title": "Thursday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/thursday-night-commander-edh-meetup-2026-02-05-2026-02-12-2026-02-19-2026-02-26-2026-03-05-2026-03-12-2026-03-19-2026-03-26-2026-04-02-2026-04-09/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1111,6 +1111,28 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-14",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-05-14",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
