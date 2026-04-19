@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T11:32:29.355Z",
+  "lastUpdated": "2026-04-19T11:33:14.922Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,83 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-18",
-      "time": "",
-      "title": "Secrets of Strixhaven Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-18",
-      "time": "",
-      "title": "Secrets of Strixhaven Play Booster Box Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-18",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-04-18",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-18",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-04-18",
-      "time": "1:00 PM",
-      "title": "Secrets of Strixhaven Prerelease",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/secrets-of-strixhaven-prerelease-95wk6",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-18",
-      "time": "3:00 PM",
-      "title": "Saturday Afternoon Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11-2026-04-18/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
@@ -1014,6 +937,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-05-11",
+      "time": "3:00 PM",
+      "title": "Saturday Afternoon Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/saturday-afternoon-commander-edh-meetup-2026-02-07-2026-02-14-2026-02-21-2026-02-28-2026-03-07-2026-03-14-2026-03-21-2026-03-28-2026-04-04-2026-04-11/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1121,6 +1055,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/8264",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-16",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
