@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T12:22:55.332Z",
+  "lastUpdated": "2026-04-29T12:15:38.166Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,39 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-04-28",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "gathering-place",
-      "storeName": "The Gathering Place",
-      "city": "Durham",
-      "date": "2026-04-28",
-      "time": "7:00 PM",
-      "title": "Tuesday Night Commander/EDH Meetup",
-      "description": "",
-      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07-2026-04-14-2026-04-21-2026-04-28/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-04-28",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -838,6 +805,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "gathering-place",
+      "storeName": "The Gathering Place",
+      "city": "Durham",
+      "date": "2026-05-21",
+      "time": "7:00 PM",
+      "title": "Tuesday Night Commander/EDH Meetup",
+      "description": "",
+      "url": "https://gatheringplacegames.com/events/tuesday-night-commander-edh-meetup-2026-02-03-2026-02-10-2026-02-17-2026-02-24-2026-03-03-2026-03-10-2026-03-17-2026-03-24-2026-03-31-2026-04-07-2026-04-14-2026-04-21/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -956,6 +934,28 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-05-26",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-05-26",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
     },
     {
