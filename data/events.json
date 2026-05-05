@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T12:20:12.223Z",
+  "lastUpdated": "2026-05-05T11:59:27.416Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -49,17 +49,6 @@
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
-      "date": "2026-05-04",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
       "date": "2026-05-05",
       "time": "",
       "title": "Daily Commander Play (Free)",
@@ -76,17 +65,6 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-05-06",
-      "time": "",
-      "title": "Magic: Secrets of Strixhaven Commander Party",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/7821",
       "format": "Commander/EDH"
     },
     {
@@ -1111,6 +1089,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-06-01",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
