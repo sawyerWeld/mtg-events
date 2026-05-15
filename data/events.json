@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T12:23:45.542Z",
+  "lastUpdated": "2026-05-15T12:29:19.844Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,39 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-05-14",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-05-14",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-05-14",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "game-theory",
       "storeName": "Game Theory",
@@ -733,6 +700,17 @@
       "city": "Mebane",
       "date": "2026-05-30",
       "time": "",
+      "title": "Off Meta cEDH Tournament",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-05-30",
+      "time": "",
       "title": "Saturday Night Casual Commander",
       "description": "",
       "url": "https://shufflenroll.com/",
@@ -1036,6 +1014,28 @@
       "format": "Standard"
     },
     {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-06-11",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-06-11",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -1078,17 +1078,6 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7869",
       "format": "Other"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-06-24",
-      "time": "",
-      "title": "Magic: Commander Nights (MSH Season)",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/9133",
-      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
