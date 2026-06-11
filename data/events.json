@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T14:20:39.188Z",
+  "lastUpdated": "2026-06-11T14:33:42.346Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,50 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-06-10",
-      "time": "",
-      "title": "Secrets of Strixhaven Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-06-10",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-06-10",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-06-10",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -479,6 +435,17 @@
       "storeName": "Dragon's Hoard",
       "city": "Greensboro",
       "date": "2026-06-20",
+      "time": "1:00 PM",
+      "title": "Marvel Super Heroes Magic the Gathering Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/marvel-super-heroes-magic-the-gathering-prerelease",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-06-20",
       "time": "11:00 AM",
       "title": "Keyforge Draconian Measures Sealed Event",
       "description": "",
@@ -572,6 +539,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-06-24",
+      "time": "",
+      "title": "Marvel Super Heroes Prerelease",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "shuffle-n-roll",
@@ -781,6 +759,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-06-27",
+      "time": "1:00 PM",
+      "title": "Marvel Super Heroes Magic the Gathering Prerelease",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/marvel-super-heroes-magic-the-gathering-prerelease-xej88-9l8ss",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "dragons-hoard",
@@ -1023,6 +1012,28 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/7874",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-07-08",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-07-08",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
     },
     {
       "store": "atomic-empire",
