@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T12:25:31.638Z",
+  "lastUpdated": "2026-06-21T13:03:29.051Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,72 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-06-20",
-      "time": "",
-      "title": "Marvel Superheroes Play Booster Box Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-06-20",
-      "time": "",
-      "title": "Marvel Super Heroes Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-06-20",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-06-20",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-06-20",
-      "time": "1:00 PM",
-      "title": "Marvel Super Heroes Magic the Gathering Prerelease",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/marvel-super-heroes-magic-the-gathering-prerelease",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-06-20",
-      "time": "11:00 AM",
-      "title": "Keyforge Draconian Measures Sealed Event",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/keyforge-draconian-measures-sealed-event",
-      "format": "Prerelease/Sealed"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -934,6 +868,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/10991",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-07-18",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
