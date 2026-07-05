@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T12:04:53.547Z",
+  "lastUpdated": "2026-07-05T12:13:37.404Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,50 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-04",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-04",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-04",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-07-04",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -1099,6 +1055,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/10993",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-08-01",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
