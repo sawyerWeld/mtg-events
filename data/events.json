@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T11:50:15.110Z",
+  "lastUpdated": "2026-07-12T11:56:24.633Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,61 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-11",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-11",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-11",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-07-11",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-12",
-      "time": "",
-      "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
-    },
     {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
@@ -167,28 +112,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-15",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-15",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -211,17 +134,6 @@
       "format": "Standard"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-16",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -242,17 +154,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-17",
-      "time": "",
-      "title": "FNM Marvel Superheroes Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -299,50 +200,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-18",
-      "time": "",
-      "title": "Attack of the Vine! Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-18",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-18",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-18",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -352,28 +209,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-19",
-      "time": "",
-      "title": "Attack of the Vine! Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-19",
-      "time": "",
-      "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -453,28 +288,6 @@
       "format": "Other"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-22",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-22",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -497,17 +310,6 @@
       "format": "Standard"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-23",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -528,17 +330,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-24",
-      "time": "",
-      "title": "FNM Marvel Superheroes Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -585,50 +376,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-25",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-25",
-      "time": "",
-      "title": "Off Meta cEDH Tournament",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-25",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-25",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -638,17 +385,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-26",
-      "time": "",
-      "title": "Casual MTG",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -717,28 +453,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-29",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-29",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -761,17 +475,6 @@
       "format": "Standard"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-30",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -792,17 +495,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-07-31",
-      "time": "",
-      "title": "FNM Marvel Superheroes Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -996,6 +688,17 @@
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
       "date": "2026-08-07",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-08-08",
       "time": "",
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
