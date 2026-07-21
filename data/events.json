@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T13:02:57.188Z",
+  "lastUpdated": "2026-07-21T12:22:20.933Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,17 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-07-20",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
@@ -167,6 +156,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-07-24",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -209,17 +209,6 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/10948",
       "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-07-24",
-      "time": "7:15 PM",
-      "title": "FNM: Commander Mixer",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/10992",
-      "format": "Commander/EDH"
     },
     {
       "store": "shuffle-n-roll",
@@ -431,6 +420,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-07-31",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -629,6 +629,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-08-07",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -761,6 +772,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-08-14",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -847,6 +869,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-08-17",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
