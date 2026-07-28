@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T13:36:50.378Z",
+  "lastUpdated": "2026-07-28T12:50:49.567Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,17 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-07-27",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
@@ -737,6 +726,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-08-24",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
