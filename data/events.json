@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T13:50:40.231Z",
+  "lastUpdated": "2026-09-13T14:47:16.805Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,83 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-09-12",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-09-12",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-12",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-12",
-      "time": "12:30 PM",
-      "title": "Cyberpunk TCG Beta Prerelease",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/cyberpunk-tcg-beta-prerelease",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-12",
-      "time": "6:00 PM",
-      "title": "Magic Commander Special Event - Heart of the Mountain!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-commander-special-event-heart-of-the-mountain",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-12",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night",
-      "format": "Pauper"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-12",
-      "time": "8:00 PM",
-      "title": "Friday Night Magic the Gathering Draft",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft",
-      "format": "Draft"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -1025,6 +948,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-10-10",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -1040,11 +974,11 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-10-16",
-      "time": "6:30 PM",
-      "title": "FNM: Reality Fracture (FRA) Draft",
+      "time": "",
+      "title": "Magic Presents: Reality Echoes",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/14209",
-      "format": "Draft"
+      "format": "Other"
     },
     {
       "store": "atomic-empire",
@@ -1106,11 +1040,11 @@
       "storeName": "Atomic Empire",
       "city": "Durham",
       "date": "2026-10-30",
-      "time": "6:30 PM",
-      "title": "FNM: Reality Fracture (FRA) Draft",
+      "time": "",
+      "title": "Magic Presents: All Leylines' Eve",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/14211",
-      "format": "Draft"
+      "format": "Other"
     },
     {
       "store": "atomic-empire",
