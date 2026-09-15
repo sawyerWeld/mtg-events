@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T16:45:32.375Z",
+  "lastUpdated": "2026-09-15T15:25:58.073Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,17 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-09-14",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
@@ -145,6 +134,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-09-18",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -231,50 +231,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-19",
-      "time": "11:00 AM",
-      "title": "Regional Championship Qualifier Magic the Gathering",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/regional-championship-qualifier-magic-the-gathering-g89mt",
-      "format": "Other"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-19",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-fwgw5",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-19",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-jmh7k",
-      "format": "Pauper"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-19",
-      "time": "8:00 PM",
-      "title": "Friday Night Magic the Gathering Draft",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft-n9j7x",
-      "format": "Draft"
     },
     {
       "store": "shuffle-n-roll",
@@ -431,6 +387,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-09-25",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -484,39 +451,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-26",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-4hcce",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-26",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-xejjw",
-      "format": "Pauper"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-26",
-      "time": "8:00 PM",
-      "title": "Friday Night Magic the Gathering Draft",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft-cabwg",
-      "format": "Draft"
     },
     {
       "store": "atomic-empire",
@@ -651,17 +585,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-09-30",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "picante-tcg",
       "storeName": "Picante TCG",
       "city": "Greensboro",
@@ -693,6 +616,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-02",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
     },
     {
       "store": "triangle-atc",
@@ -860,6 +794,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-09",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -946,6 +891,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-10-12",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
