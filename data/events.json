@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T17:39:09.319Z",
+  "lastUpdated": "2026-10-08T17:41:49.800Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,26 +46,15 @@
   ],
   "events": [
     {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-07",
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-08",
       "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
+      "title": "Thursday Night Competitive Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-10-07",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
     },
     {
       "store": "triangle-atc",
@@ -90,6 +79,28 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-09",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-09",
+      "time": "",
+      "title": "FNM All Leylines' Eve Draft",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Draft"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -98,6 +109,72 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-09",
+      "time": "6:30 PM",
+      "title": "FNM: Reality Fracture (FRA) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14208",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-09",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14198",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-09",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14203",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-10",
+      "time": "",
+      "title": "Reality fracture Commander Party",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-10",
+      "time": "",
+      "title": "Saturday Night Standard Showdown",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-10",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
     },
     {
@@ -110,6 +187,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-11",
+      "time": "",
+      "title": "Casual MTG",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -178,6 +266,39 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-14",
+      "time": "",
+      "title": "Magic: Reality Fracture Commander Party",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14575",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-14",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-14",
+      "time": "",
+      "title": "Wednesday Night Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -198,6 +319,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-15",
+      "time": "",
+      "title": "Thursday Night Competitive Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "triangle-atc",
@@ -222,6 +354,39 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-16",
+      "time": "",
+      "title": "Magic Presents: Reality Echoes",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14209",
+      "format": "Other"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-16",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-16",
+      "time": "",
+      "title": "FNM All Leylines' Eve Draft",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Draft"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -230,6 +395,72 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-16",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14199",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-16",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14204",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-17",
+      "time": "",
+      "title": "Hyperia City Prerelease",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-17",
+      "time": "",
+      "title": "Reality Fracture Standard Store Championship",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-17",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-17",
+      "time": "",
+      "title": "Saturday Night Casual Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
     },
     {
@@ -242,6 +473,28 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-18",
+      "time": "",
+      "title": "Hyperia City Prerelease",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-18",
+      "time": "",
+      "title": "Casual MTG",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -310,6 +563,28 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-21",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-21",
+      "time": "",
+      "title": "Wednesday Night Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -330,6 +605,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-22",
+      "time": "",
+      "title": "Thursday Night Competitive Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "triangle-atc",
@@ -354,6 +640,28 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-23",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-23",
+      "time": "",
+      "title": "FNM All Leylines' Eve Draft",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Draft"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -362,6 +670,72 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-23",
+      "time": "6:30 PM",
+      "title": "FNM: Reality Fracture (FRA) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14210",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-23",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14200",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-23",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14205",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-24",
+      "time": "",
+      "title": "Saturday Night Standard Showdown",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-24",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-24",
+      "time": "",
+      "title": "Saturday Night Casual Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
     },
     {
@@ -374,6 +748,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-25",
+      "time": "",
+      "title": "Casual MTG",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Other"
     },
     {
       "store": "triangle-atc",
@@ -442,6 +827,28 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-28",
+      "time": "",
+      "title": "Reality fracture Commander Party",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-28",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -462,6 +869,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-29",
+      "time": "",
+      "title": "Thursday Night Competitive Commander",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "triangle-atc",
@@ -486,6 +904,50 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-30",
+      "time": "",
+      "title": "Cyberpunk TCG Prerelease",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15202",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-30",
+      "time": "",
+      "title": "Magic Presents: All Leylines' Eve",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14211",
+      "format": "Other"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-10-30",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-30",
+      "time": "",
+      "title": "FNM All Leylines' Eve Draft",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Draft"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -494,6 +956,83 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-30",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14201",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-30",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/14206",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-31",
+      "time": "",
+      "title": "Cyberpunk TCG Prerelease",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15235",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-31",
+      "time": "",
+      "title": "cEDH Dual Land Tourney",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-31",
+      "time": "",
+      "title": "2 Headed Giant Commander Party",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-31",
+      "time": "",
+      "title": "Saturday Night Standard Showdown",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-10-31",
+      "time": "",
+      "title": "MTG Commander Precon League",
+      "description": "",
+      "url": "https://shufflenroll.com/",
       "format": "Commander/EDH"
     },
     {
@@ -571,6 +1110,160 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-04",
+      "time": "",
+      "title": "Magic: Academy - Deckbuilding/Learn to Play",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15640",
+      "format": "Other"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-04",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-11-04",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-13",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15637",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-13",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15631",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-13",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15634",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-20",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15638",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-20",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15632",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-20",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15635",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-25",
+      "time": "",
+      "title": "Magic: Star Trek Commander Party",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15616",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15639",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15633",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15636",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2027-01-20",
+      "time": "",
+      "title": "Magic: Star Trek Commander Party",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15617",
       "format": "Commander/EDH"
     }
   ]
