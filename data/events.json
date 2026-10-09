@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T17:41:49.800Z",
+  "lastUpdated": "2026-10-09T17:17:07.095Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,39 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-08",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-08",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-10-08",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "game-theory",
       "storeName": "Game Theory",
@@ -1146,6 +1113,28 @@
       "format": "Standard"
     },
     {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-05",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-11-05",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -1177,6 +1166,17 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/15634",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-14",
+      "time": "",
+      "title": "Magic: The Gathering - Pauper Tournament",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15565",
+      "format": "Pauper"
     },
     {
       "store": "atomic-empire",
