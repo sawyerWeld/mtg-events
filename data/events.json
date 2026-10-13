@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T20:06:05.537Z",
+  "lastUpdated": "2026-10-13T17:55:22.338Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,17 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-12",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
@@ -865,10 +854,10 @@
       "city": "Durham",
       "date": "2026-10-30",
       "time": "",
-      "title": "Magic Presents: All Leylines' Eve",
+      "title": "Cyberpunk TCG Prerelease",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/14211",
-      "format": "Other"
+      "url": "https://www.atomicempire.com/Store/Event/15202",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "atomic-empire",
@@ -876,10 +865,10 @@
       "city": "Durham",
       "date": "2026-10-30",
       "time": "",
-      "title": "Cyberpunk TCG Prerelease",
+      "title": "Magic Presents: All Leylines' Eve",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/15202",
-      "format": "Prerelease/Sealed"
+      "url": "https://www.atomicempire.com/Store/Event/14211",
+      "format": "Other"
     },
     {
       "store": "game-theory",
@@ -1243,6 +1232,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-09",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
