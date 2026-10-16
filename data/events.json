@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T15:28:48.275Z",
+  "lastUpdated": "2026-10-16T15:10:06.536Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,39 +46,6 @@
   ],
   "events": [
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-15",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-15",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-10-15",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
       "city": "Durham",
@@ -99,17 +66,6 @@
       "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
       "url": "https://shop.gametheorystore.com/pages/events",
       "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-16",
-      "time": "",
-      "title": "FNM All Leylines' Eve Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -134,50 +90,6 @@
       "format": "Pauper"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-17",
-      "time": "",
-      "title": "Hyperia City Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-17",
-      "time": "",
-      "title": "Reality Fracture Standard Store Championship",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-17",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-17",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -189,26 +101,81 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-18",
-      "time": "",
-      "title": "Hyperia City Prerelease",
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "12:00 PM",
+      "title": "Magic the Gathering Commander Day",
       "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss",
+      "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-18",
-      "time": "",
-      "title": "Casual MTG",
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "6:00 PM",
+      "title": "Reality Fracture Commander Party",
       "description": "",
-      "url": "https://shufflenroll.com/",
+      "url": "https://www.dragonshoardnc.com/schedule/reality-fracture-commander-party",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "7:00 PM",
+      "title": "Reality Echoes Magic the Gathering",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/reality-fracture-commander-party-29wj7",
       "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "7:00 PM",
+      "title": "Magic Presents: Reality Echoes",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-presents-reality-echoes",
+      "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "7:00 PM",
+      "title": "Magic the Gathering Pauper Night!",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-54p8n",
+      "format": "Pauper"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "7:00 PM",
+      "title": "Dragonfall 2026 Reality Fracture Booster Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/dragonfall-2026-reality-fracture-booster-draft-pxycf",
+      "format": "Draft"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-17",
+      "time": "8:00 PM",
+      "title": "Friday Night Magic the Gathering Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft-ej3fa-jj794",
+      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -277,28 +244,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-21",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-21",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -319,17 +264,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-22",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
     },
     {
       "store": "triangle-atc",
@@ -363,17 +297,6 @@
       "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
       "url": "https://shop.gametheorystore.com/pages/events",
       "format": "Modern"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-23",
-      "time": "",
-      "title": "FNM All Leylines' Eve Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -420,39 +343,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-24",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-24",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-24",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -464,15 +354,81 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-25",
-      "time": "",
-      "title": "Casual MTG",
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "11:00 AM",
+      "title": "Regional Championship Qualifier Magic the Gathering",
       "description": "",
-      "url": "https://shufflenroll.com/",
+      "url": "https://www.dragonshoardnc.com/schedule/regional-championship-qualifier-magic-the-gathering-dx27e",
       "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "12:00 PM",
+      "title": "Magic the Gathering Commander Day",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-wazhl",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "7:00 PM",
+      "title": "Store Championship Magic the Gathering",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/reality-fracture-commander-party-29wj7-ml8cg",
+      "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "7:00 PM",
+      "title": "Magic Presents: Store Championship",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-presents-reality-echoes-c558m",
+      "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "7:00 PM",
+      "title": "Magic the Gathering Pauper Night!",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-plhwt",
+      "format": "Pauper"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "7:00 PM",
+      "title": "Dragonfall 2026 Reality Fracture Booster Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/dragonfall-2026-reality-fracture-booster-draft-pegtj",
+      "format": "Draft"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-24",
+      "time": "8:00 PM",
+      "title": "Friday Night Magic the Gathering Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft-ej3fa-dk6ak",
+      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -541,28 +497,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-28",
-      "time": "",
-      "title": "Reality fracture Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-28",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -583,17 +517,6 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-29",
-      "time": "",
-      "title": "Thursday Night Competitive Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
     },
     {
       "store": "triangle-atc",
@@ -651,17 +574,6 @@
       "format": "Modern"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-30",
-      "time": "",
-      "title": "FNM All Leylines' Eve Draft",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Draft"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -706,50 +618,6 @@
       "format": "Prerelease/Sealed"
     },
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-31",
-      "time": "",
-      "title": "cEDH Dual Land Tourney",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-31",
-      "time": "",
-      "title": "2 Headed Giant Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-31",
-      "time": "",
-      "title": "Saturday Night Standard Showdown",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-31",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -759,6 +627,61 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-31",
+      "time": "12:00 PM",
+      "title": "Magic the Gathering Commander Day",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-31",
+      "time": "7:00 PM",
+      "title": "All Leyline’s Eve Magic the Gathering",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/reality-fracture-commander-party-29wj7-n4rac",
+      "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-31",
+      "time": "7:00 PM",
+      "title": "Magic Presents: All Leyline’s Eve",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-presents-reality-echoes-zxdnb",
+      "format": "Other"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-31",
+      "time": "7:00 PM",
+      "title": "Magic the Gathering Pauper Night!",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3",
+      "format": "Pauper"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-10-31",
+      "time": "8:00 PM",
+      "title": "Friday Night Magic the Gathering Draft",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/friday-night-magic-the-gathering-draft-ej3fa-emrjg",
+      "format": "Draft"
     },
     {
       "store": "triangle-atc",
@@ -1001,6 +924,28 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-12",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-11-12",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
