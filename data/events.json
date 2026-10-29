@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T16:57:46.185Z",
+  "lastUpdated": "2026-10-29T17:17:36.894Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -49,50 +49,6 @@
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
-      "date": "2026-10-28",
-      "time": "",
-      "title": "Reality fracture Commander Party",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-28",
-      "time": "",
-      "title": "MTG Commander Precon League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-28",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-10-28",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
       "date": "2026-10-29",
       "time": "",
       "title": "Thursday Night Competitive Commander",
@@ -128,10 +84,10 @@
       "city": "Durham",
       "date": "2026-10-30",
       "time": "",
-      "title": "Cyberpunk TCG Prerelease",
+      "title": "Magic Presents: All Leylines' Eve",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/15202",
-      "format": "Prerelease/Sealed"
+      "url": "https://www.atomicempire.com/Store/Event/14211",
+      "format": "Other"
     },
     {
       "store": "atomic-empire",
@@ -139,10 +95,10 @@
       "city": "Durham",
       "date": "2026-10-30",
       "time": "",
-      "title": "Magic Presents: All Leylines' Eve",
+      "title": "Cyberpunk TCG Prerelease",
       "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/14211",
-      "format": "Other"
+      "url": "https://www.atomicempire.com/Store/Event/15202",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "game-theory",
@@ -913,6 +869,28 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/15616",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-25",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-11-25",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
     },
     {
       "store": "atomic-empire",
