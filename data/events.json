@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T17:17:36.894Z",
+  "lastUpdated": "2026-10-30T16:56:06.690Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -46,37 +46,15 @@
   ],
   "events": [
     {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-10-29",
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-10-30",
       "time": "",
-      "title": "Thursday Night Competitive Commander",
+      "title": "Cyberpunk TCG Prerelease",
       "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-10-29",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-10-29",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
+      "url": "https://www.atomicempire.com/Store/Event/15202",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "atomic-empire",
@@ -88,17 +66,6 @@
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/14211",
       "format": "Other"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-10-30",
-      "time": "",
-      "title": "Cyberpunk TCG Prerelease",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/15202",
-      "format": "Prerelease/Sealed"
     },
     {
       "store": "game-theory",
@@ -891,6 +858,28 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-11-26",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-11-26",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
     },
     {
       "store": "atomic-empire",
