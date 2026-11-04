@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T18:12:39.375Z",
+  "lastUpdated": "2026-11-04T18:24:52.724Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,28 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-11-03",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-11-03",
-      "time": "All Day",
-      "title": "Commander Casual Play",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Commander/EDH"
-    },
     {
       "store": "atomic-empire",
       "storeName": "Atomic Empire",
@@ -156,6 +134,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-11-06",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -209,39 +198,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-07",
-      "time": "1:00 PM",
-      "title": "Star Trek Magic the Gathering",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/star-trek-magic-the-gathering",
-      "format": "Other"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-07",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-07",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp",
-      "format": "Pauper"
     },
     {
       "store": "shuffle-n-roll",
@@ -337,6 +293,17 @@
       "city": "Mebane",
       "date": "2026-11-11",
       "time": "",
+      "title": "Star Trek Prerelease",
+      "description": "",
+      "url": "https://shufflenroll.com/",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "shuffle-n-roll",
+      "storeName": "Shuffle N Roll",
+      "city": "Mebane",
+      "date": "2026-11-11",
+      "time": "",
       "title": "Wednesday Night Commander",
       "description": "",
       "url": "https://shufflenroll.com/",
@@ -396,6 +363,17 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-11-13",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
     },
     {
       "store": "triangle-atc",
@@ -484,39 +462,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "1:00 PM",
-      "title": "Star Trek Magic the Gathering",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/star-trek-magic-the-gathering-z9xeb",
-      "format": "Other"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-3y6sa",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-j349f",
-      "format": "Pauper"
     },
     {
       "store": "shuffle-n-roll",
@@ -673,6 +618,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-11-20",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -748,28 +704,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-21",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-wtkbt",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-21",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-el8ja",
-      "format": "Pauper"
     },
     {
       "store": "shuffle-n-roll",
@@ -937,6 +871,17 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "game-theory",
+      "storeName": "Game Theory",
+      "city": "Raleigh",
+      "date": "2026-11-27",
+      "time": "",
+      "title": "FNM (Modern + rotating format)",
+      "description": "Friday Night Magic at Game Theory Duraleigh. Modern is always available, plus rotating formats (Pioneer, Legacy, latest set).",
+      "url": "https://shop.gametheorystore.com/pages/events",
+      "format": "Modern"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -1014,28 +959,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-28",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-da656",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-28",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-3njbw",
-      "format": "Pauper"
-    },
-    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -1088,6 +1011,127 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-12-01",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-12-01",
+      "time": "All Day",
+      "title": "Commander Casual Play",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16558",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16555",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16561",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16559",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16556",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16562",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16560",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16557",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16563",
       "format": "Commander/EDH"
     },
     {
