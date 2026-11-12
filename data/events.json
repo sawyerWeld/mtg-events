@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T18:20:10.245Z",
+  "lastUpdated": "2026-11-12T18:40:29.396Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,61 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-11-11",
-      "time": "",
-      "title": "Magic: Commander Nights (TRK Season)",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/15618",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-11-11",
-      "time": "",
-      "title": "Star Trek Prerelease",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Prerelease/Sealed"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-11-11",
-      "time": "",
-      "title": "Wednesday Night Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-11-11",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "picante-tcg",
-      "storeName": "Picante TCG",
-      "city": "Greensboro",
-      "date": "2026-11-11",
-      "time": "6:00 PM",
-      "title": "Standard Tournament",
-      "description": "Weekly recurring event at Picante TCG.",
-      "url": "https://picantetcg.com/",
-      "format": "Standard"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -231,39 +176,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "1:00 PM",
-      "title": "Star Trek Magic the Gathering",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/star-trek-magic-the-gathering-z9xeb",
-      "format": "Other"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-3y6sa",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-j349f",
-      "format": "Pauper"
     },
     {
       "store": "atomic-empire",
@@ -528,28 +440,6 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-21",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-wtkbt",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-21",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-el8ja",
-      "format": "Pauper"
     },
     {
       "store": "shuffle-n-roll",
@@ -827,28 +717,6 @@
       "format": "Commander/EDH"
     },
     {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-28",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-da656",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-28",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-3njbw",
-      "format": "Pauper"
-    },
-    {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
       "city": "Mebane",
@@ -1100,6 +968,28 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-12-09",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "picante-tcg",
+      "storeName": "Picante TCG",
+      "city": "Greensboro",
+      "date": "2026-12-09",
+      "time": "6:00 PM",
+      "title": "Standard Tournament",
+      "description": "Weekly recurring event at Picante TCG.",
+      "url": "https://picantetcg.com/",
+      "format": "Standard"
     },
     {
       "store": "atomic-empire",
