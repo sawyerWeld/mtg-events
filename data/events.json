@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T16:50:07.828Z",
+  "lastUpdated": "2026-11-15T17:32:27.768Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -45,83 +45,6 @@
     }
   ],
   "events": [
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-11-14",
-      "time": "",
-      "title": "MTG Budget Commander League",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "shuffle-n-roll",
-      "storeName": "Shuffle N Roll",
-      "city": "Mebane",
-      "date": "2026-11-14",
-      "time": "",
-      "title": "Saturday Night Casual Commander",
-      "description": "",
-      "url": "https://shufflenroll.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
-      "date": "2026-11-14",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "1:00 PM",
-      "title": "Star Trek Magic the Gathering",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/star-trek-magic-the-gathering-z9xeb",
-      "format": "Other"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "12:00 PM",
-      "title": "Magic the Gathering Commander Day",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-3y6sa",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "dragons-hoard",
-      "storeName": "Dragon's Hoard",
-      "city": "Greensboro",
-      "date": "2026-11-14",
-      "time": "7:00 PM",
-      "title": "Magic the Gathering Pauper Night!",
-      "description": "",
-      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-pauper-night-my64m-c7fk3-yl7cp-j349f",
-      "format": "Pauper"
-    },
-    {
-      "store": "atomic-empire",
-      "storeName": "Atomic Empire",
-      "city": "Durham",
-      "date": "2026-11-15",
-      "time": "",
-      "title": "Magic: The Gathering - Pauper Tournament",
-      "description": "",
-      "url": "https://www.atomicempire.com/Store/Event/15565",
-      "format": "Pauper"
-    },
     {
       "store": "shuffle-n-roll",
       "storeName": "Shuffle N Roll",
@@ -363,6 +286,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-11-21",
+      "time": "12:00 PM",
+      "title": "Magic the Gathering to Boldly Go Sealed Season Long Event",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-to-boldly-go-sealed-season-long-event",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "dragons-hoard",
@@ -656,6 +590,17 @@
       "city": "Greensboro",
       "date": "2026-11-28",
       "time": "12:00 PM",
+      "title": "Magic the Gathering to Boldly Go Sealed Season Long Event",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-to-boldly-go-sealed-season-long-event-ah9r3",
+      "format": "Prerelease/Sealed"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-11-28",
+      "time": "12:00 PM",
       "title": "Magic the Gathering Commander Day",
       "description": "",
       "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-commander-day-bap6a-7waxh-d8h5y-p99ss-kgnsz-69fdj-da656",
@@ -726,6 +671,17 @@
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
+    },
+    {
+      "store": "dragons-hoard",
+      "storeName": "Dragon's Hoard",
+      "city": "Greensboro",
+      "date": "2026-11-30",
+      "time": "12:00 PM",
+      "title": "Magic the Gathering to Boldly Go Sealed Season Long Event",
+      "description": "",
+      "url": "https://www.dragonshoardnc.com/schedule/magic-the-gathering-to-boldly-go-sealed-season-long-event-j3233",
+      "format": "Prerelease/Sealed"
     },
     {
       "store": "triangle-atc",
@@ -1000,6 +956,17 @@
       "title": "FNM: Commander Mixer",
       "description": "",
       "url": "https://www.atomicempire.com/Store/Event/16562",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-12-12",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
       "format": "Commander/EDH"
     },
     {
