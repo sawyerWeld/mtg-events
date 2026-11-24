@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T22:26:00.821Z",
+  "lastUpdated": "2026-11-24T20:58:31.002Z",
   "stores": [
     {
       "id": "atomic-empire",
@@ -49,17 +49,6 @@
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
-      "date": "2026-11-23",
-      "time": "",
-      "title": "Daily Commander Play (Free)",
-      "description": "Free Commander play daily — use the Commander Code",
-      "url": "https://triangleatc.com/",
-      "format": "Commander/EDH"
-    },
-    {
-      "store": "triangle-atc",
-      "storeName": "Triangle Area Trading Cards",
-      "city": "Raleigh",
       "date": "2026-11-24",
       "time": "",
       "title": "Daily Commander Play (Free)",
@@ -76,6 +65,17 @@
       "title": "Commander Casual Play",
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-25",
+      "time": "",
+      "title": "Magic: Star Trek Commander Party",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15616",
       "format": "Commander/EDH"
     },
     {
@@ -186,6 +186,39 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15639",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15633",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-11-27",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15636",
       "format": "Commander/EDH"
     },
     {
@@ -376,6 +409,39 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16558",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16555",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-04",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16561",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -516,6 +582,39 @@
       "title": "Daily Commander Play (Free)",
       "description": "Free Commander play daily — use the Commander Code",
       "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16559",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16556",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-11",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16562",
       "format": "Commander/EDH"
     },
     {
@@ -662,6 +761,39 @@
       "format": "Commander/EDH"
     },
     {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "6:30 PM",
+      "title": "FNM: Star Trek (TRK) Draft",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16560",
+      "format": "Draft"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "6:30 PM",
+      "title": "FNM: Pauper",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16557",
+      "format": "Pauper"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2026-12-18",
+      "time": "7:15 PM",
+      "title": "FNM: Commander Mixer",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/16563",
+      "format": "Commander/EDH"
+    },
+    {
       "store": "triangle-atc",
       "storeName": "Triangle Area Trading Cards",
       "city": "Raleigh",
@@ -704,6 +836,50 @@
       "description": "Weekly recurring event at Picante TCG.",
       "url": "https://picantetcg.com/",
       "format": "Standard"
+    },
+    {
+      "store": "triangle-atc",
+      "storeName": "Triangle Area Trading Cards",
+      "city": "Raleigh",
+      "date": "2026-12-21",
+      "time": "",
+      "title": "Daily Commander Play (Free)",
+      "description": "Free Commander play daily — use the Commander Code",
+      "url": "https://triangleatc.com/",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2027-01-20",
+      "time": "",
+      "title": "Magic: Star Trek Commander Party",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/15617",
+      "format": "Commander/EDH"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2027-01-27",
+      "time": "",
+      "title": "Magic: Academy - Deckbuilding/Learn to Play",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/17083",
+      "format": "Other"
+    },
+    {
+      "store": "atomic-empire",
+      "storeName": "Atomic Empire",
+      "city": "Durham",
+      "date": "2027-01-31",
+      "time": "",
+      "title": "Magic: Nauctis Prerelease - Two-Headed Giant",
+      "description": "",
+      "url": "https://www.atomicempire.com/Store/Event/17053",
+      "format": "Prerelease/Sealed"
     }
   ]
 }
